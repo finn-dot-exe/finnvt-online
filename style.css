@@ -1,0 +1,50 @@
+body {
+    box-sizing: content-box;
+    width: 500px; margin: auto; padding-top: 200px;
+    background-color: black; color: white; 
+    text-shadow: 2px 2px rgb(201, 0, 0); 
+    font-size: larger; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div.heading {
+font-size: medium; font-family: 'Times New Roman', Times, serif; text-shadow: none; font-weight: bold;
+margin-left: 15px;
+}
+img {
+    margin-top: 18px; margin-bottom: 36px; margin-left: 8px;
+}
+
+#center {
+    width: 475px; margin: auto;
+}
+
+div.disclaimer {
+    text-shadow: none; font-size: small; font-style: oblique; color: whitesmoke; 
+}
+
+#ENTER {
+    margin-top: 36px;
+
+}
+/* unvisited link */
+a {
+    text-shadow: none; margin-left: 15px; font-size: x-large;
+}
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(255, 0, 0);
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+  }
