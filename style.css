@@ -7,7 +7,9 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 div.heading {
-font-size: medium; font-family: 'Times New Roman', Times, serif; text-shadow: none; font-weight: bold;
+font-size: medium; 
+font-family: Georgia, 'Times New Roman', Times, serif; 
+text-shadow: none; font-weight: bold;
 margin-left: 15px;
 }
 img {
@@ -22,29 +24,11 @@ div.disclaimer {
     text-shadow: none; font-size: small; font-style: oblique; color: whitesmoke; 
 }
 
-#ENTER {
-    margin-top: 36px;
-
-}
-/* unvisited link */
-a {
-    text-shadow: none; margin-left: 15px; font-size: x-large;
-}
-a:link {
-    color: red;
-  }
-  
-  /* visited link */
-  a:visited {
-    color: white;
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: rgb(255, 0, 0);
-  }
-  
-  /* selected link */
-  a:active {
-    color: white;
+button {
+    padding: 5px 8px; 
+    margin-left: 12px;
+    font-size: large; 
+    background-color: rgb(175, 175, 175); 
+    font-weight: bold; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }

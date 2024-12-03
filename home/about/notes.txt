@@ -1,0 +1,22 @@
+Take inspo from Obey the System for overall block structure. As far as the blocks go, 
+
+Maybe something a bit like Rokku's Rotating blocks, but stating instead - 
+a large one promoting the blog page, a large one promoting the livestream page, one promoting the discord server (pitching it in a tone akin to staying connecting neurally or via a cyberdeck after the stream). Maybe a banner for the main stream game(s), if I could ever keep up with that.... lmao. Maybe they will make me finish games, the thought of having to update an image every time i drop a game and pick up another. 
+
+Webring for friends? Open to mutuals? 
+
+Separate page for socials, or bake them into the home page?
+
+Blog page. Then separate HTML pages for types of review? Or combine everything? Should I use a tag system?
+All new articles will have their own new HTML pages.
+
+The save point will have its own html page, but all the blog posts will be contained on that one page, like a microblog. Not too different than getcubed or velvetblue's diary pages.
+
+I am going to need a VOD archive page if I am continuing the unlisted VOD's on youtube path. Peertube is gonna be too expensive to host remotely and I don't really wanna self host, because ya know, Florida weather.
+
+Button wall at the bottom of the home page, but a bit more utility out of them this go around. 
+
+Take your time.
+
+
+The index page is finished.
