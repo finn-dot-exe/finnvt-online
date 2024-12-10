@@ -8,7 +8,7 @@ body {
     box-sizing: border-box;
     outline: 3px solid rgb(180, 180, 180);
     width: 600px;
-    margin-bottom: 18px;
+    margin-bottom: 15px;
     margin-left: auto;
     margin-right: auto;
     flex-direction: column;
@@ -20,16 +20,16 @@ body {
     padding: 2px 5px; 
     background-color: rgb(175, 175, 175); 
     color: rgb(255, 255, 255);
-    text-shadow: 2px 2px rgb(201, 0, 0);
+    text-shadow: 2px 2px #c90000;
     margin-bottom: 5px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: medium;
 }
- #content-box {
+ #welcome-box {
     display: flex;
     outline: 3px solid black;
-    width: 850px;
+    width: 800px;
     margin: auto;
     background-color: whitesmoke;
     align-items: center;
@@ -38,27 +38,43 @@ body {
 }
 h3.welcome {
     margin: auto;
+    text-shadow: 2px 2px #c90000;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 p.welcome
 {
     padding-right: 10px;
+    font-size: medium;
     margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
     
 }
-#stream-promo {
-    Width: 850px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 18px;
+#promos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    min-height: 300px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
+#content {
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    width: 800px;
+    margin: auto;
+    padding: 3px;
+    outline: 3px solid black;
+    gap: 10px;
 
-#blog-promo {
-    Width: 850px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 18px;
+}
+h2 {
+    text-shadow: 2px 2px #c90000;
+    text-align: center;
+}
+.list {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
 }
