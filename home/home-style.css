@@ -78,3 +78,6 @@ h2 {
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
 }
+.savepointupdate {
+    color: red;
+}
