@@ -31,7 +31,7 @@ body {
     width: 850px;
     margin: auto;
     align-items: center;
-    padding: 15px; /* Set padding to 15px */
+    padding: 15px; 
     font-size: larger;
     margin-bottom: 25px;
 }
@@ -42,6 +42,32 @@ body {
     color: black;
 }
 .b2 {
+    background-color: black;
+    outline: 3px solid whitesmoke;
+    color: whitesmoke;
+}
+
+#webbuttons {
+    display: flex;
+    flex-wrap: wrap;
+    width: 850px;
+    margin: auto;
+    padding: 15px; 
+    font-size: larger;
+    margin-bottom: 25px;
+    gap: 5px;
+    background-color: whitesmoke;
+    outline: 3px solid black;
+    color: black;
+}
+#friendbuttons {
+    align-items: center;
+    text-align: center;
+    width: 850px;
+    margin: auto;
+    padding: 15px; 
+    font-size: large;
+    gap: 5px;
     background-color: black;
     outline: 3px solid whitesmoke;
     color: whitesmoke;
