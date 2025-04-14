@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>FinnVT Online</title>
+        <link>https://finnvt.online/</link>
+        <description>FinnVT Online is a blog on the net focusing on 
+        video games, anime, tech and introspective bullshit.</description>
+        <item>
+            <title>Save Point Rest #2</title>
+            <link>https://finnvt.online/home/blog.html</link>
+            <guid>https://finnvt.online/home/blog.html</guid>
+            <pubDate>Mon, 14 Apr 2025 20:30:00 GMT</pubDate>
+            <description>Sorry for the lack of content.... 
+            Read more on FinnVT Online.</description>
+        </item>
+        <item>
+            <title>Save Point Rest #1</title>
+            <link>https://finnvt.online/home/blog.html</link>
+            <guid>https://finnvt.online/home/blog.html</guid>
+            <pubDate>Tue, 25 Feb 2025 20:30:00 GMT</pubDate>
+            <description>Welcome to the new site!... 
+            Read more on FinnVT Online.</description>
+</channel>
+</rss>
